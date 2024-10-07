@@ -1,0 +1,22 @@
+jaringan komputer konsep dasar jaringan komputer adalah serangkaian sistem yang berpadu dari 
+beberapa sub sistem dasar sub sistemnya terdiri dari sistem komunikasi dan protokol komunikasi 
+sistem tersebut membentuk sebuah saluran yang terkait dan saling m endukung untuk tujuan 
+sharing data atau sharing perangkat sistem komunikasi merupakan perpaduan dari beberapa 
+sistem sistem tersebut tebentuk dari transmisi sinyal pembawa sinyal atau yang biasa disebut 
+carrierdan protokol komunikasi transmisi sinyalbi asa berbebentuk analog maupun digital 
+trasmisi sinyal memerlukan media sebagai penerus sinyal carrier dapat berupa kabel 
+gelombang radio rf cahaya dan lainlain untuk dapat menyampaikan data sistem komunikasi 
+juga memerlukan aturan ruleprotocol  protokol komunikasi communication protocol adalah 
+suatu aturan yang dipakai sebagai pengontrol pertukaran data antar simpul nodecontohnya 
+adalah komputer pengaturan tersebut mencakup proses inisialisasi verifikasi cara berkomunikasi 
+dan cara mengakhiri komunikasi jaringan komputer computer network dapat didefinisikan 
+sebagai dua atau lebih komputer yang mampu dihubungkan dengan menggunakan sebuah siste m 
+komunikasi secara konseptual jaringan komputer adalah suatu jaringan kerja berbasis pada 
+komputer yang terdiri dari simpul simpul nodes yang terjalin satu sama lain baik menggunakan 
+wire kabel ataupun wireless tanpa kabel setiap simpul akan ber peran sebagai stasiun kerja 
+workstation yang berfungsi sebagai penyedia layanan service providerserver untuk mengatur 
+fungsi fungsi tertentu dari simpul simpul lainnya perbedaan mendasar dari konsep jaringan 
+komputer dan  komunikasi data adalah komun ikasi data condong pada keandalan dan efisiensi 
+transfer sejumlah bit bit dari satu titik ke tujuannya sedangkan jaringan komputer memerlukan 
+atau mempergunakan tekhnik komunikasi data namun jaringan komputer lebih mementingkan arti 
+dari tiap bit dalam p roses pengiriman hingga diterima di tujuannya  
